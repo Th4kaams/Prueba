@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 431759853420103469}
   - component: {fileID: 9197552843493139471}
   - component: {fileID: 7568448827265442856}
-  - component: {fileID: 2749460418183919594}
+  - component: {fileID: 3264236160554782361}
   m_Layer: 0
   m_Name: "C\xE1psula"
   m_TagString: Untagged
@@ -99,7 +99,7 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &2749460418183919594
+--- !u!114 &3264236160554782361
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -108,6 +108,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 4140650256345990385}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f030170052bb18147a139401e6f0925c, type: 3}
+  m_Script: {fileID: 11500000, guid: ffba2e5de6a20654b86a61c86b8f9859, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _go1: {fileID: 0}
+  _go2: {fileID: 2319024247820027009, guid: 0dacbff4959c3dd4eb4c4393a5db8987, type: 3}
